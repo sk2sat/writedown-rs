@@ -12,4 +12,4 @@ description = "Writedown format parser"
 repository = "https://github.com/sk2sat/writedown-rs"
 
 [dev-dependencies]
-clap = "3.2.8"
+clap = "4.0.0"
